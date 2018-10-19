@@ -7,5 +7,6 @@
   * [2.3 工具包](chapter1/23gong-ju-bao.md)
   * [2.4 模板](24-mo-ban.md)
   * [2.5 组件](25.md)
+  * [2.6 路由](26-lu-you.md)
 * [核心系统](he-xin-xi-tong.md)
 
