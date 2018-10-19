@@ -39,6 +39,43 @@
 - **3、封闭式：深度定制的模块系统，很少需要引入外部模块**
 
 
+# DOM 解决方案
+
+关于DOM，主要包括Selector(选择器)、Manipulation(DOM操作)、Event(事件)、Animation(动画)这四个部分
+
+
+DOM相关的解决方案主要用于提供以下操作
+1、提供便利的 DOM 查询、操作、移动等操作
+2、提供事件绑定及事件代理支持
+3、提供浏览器特性检测及 UserAgent 侦测
+4、提供节点属性、样式、类名的操作
+5、保证目标平台的跨浏览器支持
+
+
+### DOM 常用方案
+
+常用的DOM解决方案有 jQuery、zepto.JS、MOOTOO.JS等
+jQuery是曾经风靡一时的最流行的前端解决方案，jQuery特有的链式调用的方式简化了javascript的复杂操作，而且使人们不再需要关心兼容性，并提供了大量的实用方法
+zepto是jQuery的精简版，针对移动端去除了大量jQue	ry的兼容代码，提供了简单的手势，部分API的实现方式不同
+mootools源码清晰易懂，严格遵循Command-Query(命令-查询)的接口规范，没有诸如jQuery的两义性接口。还有一个不得不提的特点是，使用选择器获取的是DOM原生对象，而不是被包装过的对象。而它支持的诸多方法则是通过直接扩展DOM原生对象实现的，这也是它的争议所在
+相比较而言，最稳妥的DOM解决方案是jQuery
+
+
+###  专业领域
+
+上面的解决方案用于解决DOM一般的通用问题。随着技术的发展，DOM的专业领域出现一些小而精致的解决方案
+1、手势
+Hammer.JS包括了常见手势封装（Tab、Hold、Transform、Swifp）并支持自定义扩展
+2、局部滚动
+iscroll.JS是移动端position:fix + overflow:scroll的救星
+3、高级动画
+Velocity.JS可以复杂动画序列实现，不仅局限于 DOM
+4、视频播放
+Video.JS类似原生 video 标签的使用方式，对低级浏览器使用 flash 播放器
+
+
+
+
 
  
 
