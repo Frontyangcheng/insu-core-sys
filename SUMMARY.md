@@ -6,5 +6,6 @@
   * [2.2 通信解决方案](chapter1/tong-xin-jie-jue-fang-an.md)
   * [2.3 工具包](chapter1/23gong-ju-bao.md)
   * [2.4 模板](24-mo-ban.md)
+  * [2.5 组件](25.md)
 * [核心系统](he-xin-xi-tong.md)
 
