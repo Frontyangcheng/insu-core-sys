@@ -7,7 +7,7 @@ node@6.9.5、npm@5.3.0、vue@^2.4.2、vue-router@^2.2.0、vuex@^2.2.1
 ```
 
 **环境搭建**
-安装node
+安装Node
 1)、下载node-v6.9.5-x64.msi双击安装(可安装到除c盘外的其它盘) 
 2)、cmd命令中输入node-v，出现版本号则安装成功 
 3)、由于国内网络原因安装node之后，请自行安装cnpm 地址：http://npm.taobao.org/
