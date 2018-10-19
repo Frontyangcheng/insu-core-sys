@@ -14,4 +14,5 @@
   * [3.2 框架选择](32kuang-jia-xuan-ze.md)
   * [3.3 技术选型](33.md)
   * [3.4 模块热替换](he-xin-xi-tong/34.md)
+  * [3.5 前端路由](he-xin-xi-tong/35.md)
 
