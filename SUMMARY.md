@@ -11,4 +11,5 @@
   * [2.7 Architecture\(架构\)](27.md)
 * [三 核心系统](he-xin-xi-tong.md)
   * [3.1 主要功能](he-xin-xi-tong/31.md)
+  * [3.2 框架选择](32kuang-jia-xuan-ze.md)
 
