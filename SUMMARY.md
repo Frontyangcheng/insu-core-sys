@@ -8,5 +8,6 @@
   * [2.4 模板](24-mo-ban.md)
   * [2.5 组件](25.md)
   * [2.6 路由](26-lu-you.md)
+  * [2.7 Architecture\(架构\)](27.md)
 * [核心系统](he-xin-xi-tong.md)
 
