@@ -9,5 +9,6 @@
   * [2.5 组件](25.md)
   * [2.6 路由](26-lu-you.md)
   * [2.7 Architecture\(架构\)](27.md)
-* [核心系统](he-xin-xi-tong.md)
+* [三 核心系统](he-xin-xi-tong.md)
+  * [3.1 主要功能](he-xin-xi-tong/31.md)
 
