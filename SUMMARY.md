@@ -13,4 +13,5 @@
   * [3.1 主要功能](he-xin-xi-tong/31.md)
   * [3.2 框架选择](32kuang-jia-xuan-ze.md)
   * [3.3 技术选型](33.md)
+  * [3.4 模块热替换](he-xin-xi-tong/34.md)
 
