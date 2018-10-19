@@ -15,7 +15,7 @@ node@6.9.5、npm@5.3.0、vue@^2.4.2、vue-router@^2.2.0、vuex@^2.2.1
 
 **启动**
 1.从gitlab上获取到和聚宝的git地址  http://git@gitlab.polyhome.net:react/insu-core-sys.git
-git clone 地址 
+git clone 地址。
 2.将代码down下来后 
 在项目根目录中执行npm i 或者 cnpm i 
 3.在项目根目录中执行 npm run dev 来启动项目 
